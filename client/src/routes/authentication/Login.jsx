@@ -21,8 +21,10 @@ function Login() {
   return (
     <Form
       onSubmit={handleSubmit}
-      style={{ "--image-url": `url("/src/misc/friends.jpg")` }}
-      className="h-screen bg-cover bg-[image:var(--image-url)] text-white"
+      style={{
+        "--image-url": `url("https://images.unsplash.com/photo-1691156568477-7188f31e6f4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80")`,
+      }}
+      className="h-screen bg-cover bg-center bg-[image:var(--image-url)] text-white"
     >
       <div className="w-full h-full flex justify-center items-center backdrop-blur-[2px]">
         <div className="bg-[#000000db] shadow-[0px_0px_14px_rgba(0,0,0,1)] rounded-lg px-16 py-12 grid justify-items-center gap-6">
