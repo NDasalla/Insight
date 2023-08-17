@@ -22,12 +22,12 @@ function Login() {
     <Form
       onSubmit={handleSubmit}
       style={{
-        "--image-url": `url("https://images.unsplash.com/photo-1691712988368-ab9cb6cd6ef3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80")`,
+        "--image-url": `url("https://rare-gallery.com/uploads/posts/508158-advice-advise.jpg")`,
       }}
       className="h-screen bg-cover bg-center bg-[image:var(--image-url)] text-white"
     >
       <div className="w-full h-full flex justify-center items-center">
-        <div className="bg-[#000000db] shadow-[0px_0px_14px_rgba(0,0,0,1)] rounded-lg px-16 py-12 grid justify-items-center gap-6">
+        <div className="bg-[#000000ea] shadow-[0px_0px_14px_rgba(0,0,0,1)] rounded-lg px-16 py-12 grid justify-items-center gap-6">
           <div className="flex flex-col w-[25rem] gap-6">
             <p className="text-center text-4xl">Welcome Back</p>
             <p className="text-center text-md">Please log in to your account</p>
