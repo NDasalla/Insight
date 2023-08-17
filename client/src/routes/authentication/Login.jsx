@@ -26,7 +26,7 @@ function Login() {
       }}
       className="h-screen bg-cover bg-center bg-[image:var(--image-url)] text-white"
     >
-      <div className="w-full h-full flex justify-center items-center">
+      <div className="w-full h-full flex justify-center items-center backdrop-blur-[1px]">
         <div className="bg-[#000000ea] shadow-[0px_0px_14px_rgba(0,0,0,1)] rounded-lg px-16 py-12 grid justify-items-center gap-6">
           <div className="flex flex-col w-[25rem] gap-6">
             <p className="text-center text-4xl">Welcome Back</p>
