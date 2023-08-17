@@ -30,7 +30,7 @@ const Register = () => {
     <Form
       onSubmit={handleSubmit}
       style={{
-        "--image-url": `url("https://images.unsplash.com/photo-1691059283474-74660edb314c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80")`,
+        "--image-url": `url("https://images.unsplash.com/photo-1690498705913-1d498ad731ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2671&q=80")`,
       }}
       className="h-screen bg-cover bg-center bg-[image:var(--image-url)] text-white"
     >
