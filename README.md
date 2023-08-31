@@ -36,7 +36,7 @@ Now, you may start the Vite localhost by running
 npm run dev
 ```
 in the `client` directory, which you should already be on. However, you will likely encounter errors, which will
-likely be due to not having an actual database set up yet. So, in order to full use the app please create a new 
+likely be due to not having an actual database set up yet. So, in order to use the fully functioning app please create a new 
 Postgres database and use Sequelize as the ORM. After successfully doing so, you may then open up a new terminal in
 VSCode and cd into the root directory of the project. Then, you may run:
 ```
