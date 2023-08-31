@@ -66,7 +66,3 @@ This app is deployed on AWS through the AWS Learner Lab.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
-## Acknowledgments
-
-* Big thank you to my Tech Talent Pipeline Capstone Group members.
