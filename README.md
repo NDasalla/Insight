@@ -1,6 +1,6 @@
 # Project Title
 
-  Insight is a Full-Stack app that utilizes the PERN stack and was developed to help prospective and current CUNY students connect with others through forums. Specifically, users may converse with others to provide and receive help and advice. 
+  Insight is a Full-Stack app that utilizes the PERN stack and was developed to help prospective and current CUNY students connect with others through forums. Specifically, users may interact with others to provide and receive help and advice. 
   Upon opening the app, you will land on the main homepage where you may search for CUNY colleges and choose to go to their own College Homepage. At this moment, there are only four Colleges available, but you may add more manually in your own database if you so desire. Each College Homepage will display the majors for that College, which are also links to the majors' dedicated forums. For example, clicking on the Computer Science button will link you to the Computer Science forum page. 
   This app features fully-functioning CRUD operations for Authentication, forum posts, and comments, though at the moment users are unable to edit and delete their own accounts.
   
